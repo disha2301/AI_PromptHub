@@ -1,4 +1,5 @@
-**AI PromptHub** ✨—the ultimate destination for AI-driven prompts! Whether you want to ignite your creativity, enhance productivity, or unlock new AI possibilities, AI PromptHub bridges the gap between prompt creators and users worldwide.
+**AI PromptHub** ✨—the ultimate destination for AI-driven prompts! Whether you want to ignite your creativity, enhance productivity, or unlock new AI possibilities, AI PromptHub bridges the gap between prompt creators and users worldwide - [AI PromptHub](https://ai-prompt-hub-kappa.vercel.app/)
+
 
 ## ✨ Visual Overview
 
